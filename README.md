@@ -20,41 +20,6 @@
 
 Este repositório é uma coleção de projetos em Swift, que podem servir como exemplos, referências ou pontos de partida para seus próprios projetos. Cada projeto está em sua própria pasta e tem uma descrição detalhada.
 
-## Projetos
-
-### Projeto 1: App de Tarefas
-
-Um aplicativo simples para gerenciar suas tarefas diárias.
-
-**Características:**
-- Adicionar, editar e remover tarefas
-- Marcar tarefas como concluídas
-- Persistência de dados usando CoreData
-
-**Caminho:** `./AppDeTarefas`
-
-### Projeto 2: Conversor de Moeda
-
-Um aplicativo que converte valores entre diferentes moedas usando uma API externa.
-
-**Características:**
-- Seleção de moeda de origem e destino
-- Taxas de câmbio atualizadas
-- Interface amigável
-
-**Caminho:** `./ConversorDeMoeda`
-
-### Projeto 3: Jogo de Memória
-
-Um jogo simples de memória com cartas.
-
-**Características:**
-- Jogo com cartas temáticas
-- Contagem de tentativas
-- Temporizador
-
-**Caminho:** `./JogoDeMemoria`
-
 ## Instalação
 
 ### Requisitos
