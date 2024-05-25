@@ -66,7 +66,7 @@ Um jogo simples de memória com cartas.
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/projetos-swift.git
+    git clone https://github.com/VonCallis/projetos-swift.git
     ```
 2. Navegue até a pasta do projeto desejado e abra o projeto no Xcode:
     ```sh
