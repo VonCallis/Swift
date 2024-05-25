@@ -1,7 +1,7 @@
 ## Repositório de Projetos em Swift
 
 [![Swift](https://img.shields.io/badge/swift-v5.10-blue?logo=swift)](https://swift.org/download/#releases)
-[![Licença](https://img.shields.io/badge/license-MIT-blue)](https://en.wikipedia.org/wiki/MIT_License)
+[![Licença](https://img.shields.io/badge/license-MIT-blue)]([https://en.wikipedia.org/wiki/MIT_License](https://github.com/VonCallis/Swift/blob/main/LICENSE))
 ![Plataforma](https://img.shields.io/badge/For-IOS-lightgrey?logo=ios)
 
 #Bem-vindo ao repositório de **Projetos em Swift**! Este repositório contém vários projetos escritos em Swift, cada um com seu próprio propósito e funcionalidades.
