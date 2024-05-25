@@ -73,4 +73,4 @@ Para mais informações, entre em contato pelo email [Voncallis@gmail.com](mailt
 
 ---
 
-Obrigado por explorar os **Projetos em Swift**!
+Obrigado por explorar os **Meus Projetos**!
