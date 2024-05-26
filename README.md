@@ -70,7 +70,7 @@ Este repositório está licenciado sob a licença MIT. Veja o arquivo [LICENSE](
 ## Contato
 
 Para mais informações, entre em contato pelo email [Voncallis@gmail.com](mailto:Voncallis@gmail.com).
-Ou pelo Discord [![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/1018277738492211201)
+Ou pelo Discord [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1018277738492211201)
 
 ---
 
